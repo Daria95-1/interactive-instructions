@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/interactive-instructions/static/css/main.3cd56fe2.css",
+    "main.js": "/interactive-instructions/static/js/main.057bc7df.js",
+    "index.html": "/interactive-instructions/index.html",
+    "main.3cd56fe2.css.map": "/interactive-instructions/static/css/main.3cd56fe2.css.map",
+    "main.057bc7df.js.map": "/interactive-instructions/static/js/main.057bc7df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cd56fe2.css",
+    "static/js/main.057bc7df.js"
+  ]
+}
